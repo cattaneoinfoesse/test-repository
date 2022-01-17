@@ -1,0 +1,8 @@
+[Bb]in
+[Oo]bj
+packages
+*.dll
+*.pdb
+.vs
+*.njsproj.user
+*.csproj.user
